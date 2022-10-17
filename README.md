@@ -32,7 +32,7 @@
   - Remember this from the lessons on Git and Github?
     - Go to the green `Code` button in the top right of this repository
     - Select `https` and then COPY that url
-    - Open Git Bash on your computer, `cd` to a directory where you wish to save this assignment to work on
+    - Open Git Bash (Windows) or Termial (Mac) on your computer, and `cd` to a directory where you wish to save this assignment to work on
     - Type `git clone ` followed by the URL you copied from Github
     - `cd` into the repository for this assignment that you have just cloned.
 - Open the newly cloned project in a code editor (ex. Visual Studio Code).
